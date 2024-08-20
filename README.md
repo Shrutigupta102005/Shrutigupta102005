@@ -1,3 +1,4 @@
+![logo](https://github.com/Shrutigupta102005/Shrutigupta102005/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
